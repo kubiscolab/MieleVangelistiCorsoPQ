@@ -1,0 +1,4 @@
+Server: xlgdemos.database.windows.net
+Database: AdventureWorks
+User: DataMaster
+Password: D4t4M@ster!
